@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "PaymentDTO",
+  "namespace": "com.example.dto",
+  "fields" : [
+    {"name": "description", "type": "string"},
+    {"name": "status", "type": "string"}
+  ]
+}
